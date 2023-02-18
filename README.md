@@ -48,7 +48,7 @@ Note : there are hidden features, check at the source code of the bot to find th
 
 𝙈𝙚𝙩𝙝𝙤𝙙 - 1 : ᴠɪᴀ ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴏɴ𝙨
 
-https://www.heroku.com/deploy
+https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/msgsuite/clonebot_heroku
 
 
 
